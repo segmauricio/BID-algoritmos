@@ -31,7 +31,7 @@ beCheerful(0);
 */
 
 //* Múltiplos de tres, pero no todos
-// Usando FOR, imprime múltiplos de 3 de -300 a 0. Omite -3 y -6. 
+// Usando FOR, imprime múltiplos de 3 de -300 a 0. Omite -3 y -6.
 /*
 for (var i = -300; i <= 0; i++){
     if(i % 3 == 0 && i != -6 && i != -3){
@@ -166,7 +166,6 @@ function funcioncita(lowNum, highNum, mult){
 }
 funcioncita(2, 9, 3);
 */
-
 
 //* La cuenta regresiva final
 /* Esto se basa en "Cuenta regresiva flexible". Los nombres de los parámetros no son tan útiles, pero el problema es esencialmente idéntico;
